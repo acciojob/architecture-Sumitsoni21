@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+
+
+body{
+	width:1100px;
+}
+
+.imageContainer img{
+	height:300px;
+}
+
+
+td{
+	border:1px solid gray;
+}
+td img{
+	height:200px;
+}
+.col-200{
+	width:200px;
+}
+
+.col-600{
+	width:600px;
+}
